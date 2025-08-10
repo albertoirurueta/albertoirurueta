@@ -11,7 +11,12 @@ Cool stuff I've done:
 
   https://youtu.be/eD-kI6F3e_4?si=Mx_F-aNdkfOfdGpc
 
-- Indoor navigation using wifi: https://youtu.be/GAvOyL0qYrw
+- Indoor navigation using wifi:
+
+  [<img width="944" height="540" alt="image" src="https://github.com/user-attachments/assets/dcaffd3e-8c2e-4a19-8e1c-4c6ff6449ae7" />](https://youtu.be/GAvOyL0qYrw)
+
+  https://youtu.be/GAvOyL0qYrw
+  
 - Feet Size detection using Augmented Reality: https://youtube.com/shorts/iI7l3vaDpsU?feature=share
 - Android developement. Mostly it's normal stuff, but sometimes there's something cute like this: https://youtube.com/shorts/3zKiuTil4VQ?feature=share
 <!---
