@@ -7,9 +7,9 @@
 Cool stuff I've done:
 - 3D reconstruction:
 
-  <a src="https://youtu.be/eD-kI6F3e_4?si=Mx_F-aNdkfOfdGpc"><img width="796" height="603" alt="image" src="https://github.com/user-attachments/assets/1abaea80-5223-478b-a735-c28dc4e045ab" />
+  [<img width="796" height="603" alt="image" src="https://github.com/user-attachments/assets/1abaea80-5223-478b-a735-c28dc4e045ab" />](https://youtu.be/eD-kI6F3e_4?si=Mx_F-aNdkfOfdGpc)
 
-  https://youtu.be/eD-kI6F3e_4?si=Mx_F-aNdkfOfdGpc</a>
+  https://youtu.be/eD-kI6F3e_4?si=Mx_F-aNdkfOfdGpc
 
 - Indoor navigation using wifi: https://youtu.be/GAvOyL0qYrw
 - Feet Size detection using Augmented Reality: https://youtube.com/shorts/iI7l3vaDpsU?feature=share
