@@ -17,8 +17,18 @@ Cool stuff I've done:
 
   https://youtu.be/GAvOyL0qYrw
   
-- Feet Size detection using Augmented Reality: https://youtube.com/shorts/iI7l3vaDpsU?feature=share
-- Android developement. Mostly it's normal stuff, but sometimes there's something cute like this: https://youtube.com/shorts/3zKiuTil4VQ?feature=share
+- Feet Size detection using Augmented Reality:
+
+  [<img width="405" height="741" alt="image" src="https://github.com/user-attachments/assets/4df2887c-0d31-4f0b-9f63-9453ede79d03" />](https://youtube.com/shorts/iI7l3vaDpsU?feature=share)
+
+  https://youtube.com/shorts/iI7l3vaDpsU?feature=share
+  
+- Android developement. Mostly it's normal stuff, but sometimes there's something cute like this:
+
+  [<img width="405" height="741" alt="image" src="https://github.com/user-attachments/assets/fe424241-eaef-459b-b297-6cd9f6102abc" />](https://youtube.com/shorts/3zKiuTil4VQ?feature=share)
+
+  https://youtube.com/shorts/3zKiuTil4VQ?feature=share
+  
 <!---
 albertoirurueta/albertoirurueta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
