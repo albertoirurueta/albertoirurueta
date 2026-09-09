@@ -28,7 +28,8 @@ Cool stuff I've done:
   [<img width="405" height="741" alt="image" src="https://github.com/user-attachments/assets/fe424241-eaef-459b-b297-6cd9f6102abc" />](https://youtube.com/shorts/3zKiuTil4VQ?feature=share)
 
   https://youtube.com/shorts/3zKiuTil4VQ?feature=share
-  
+
+For more info, visit: [www.irurueta.com](https://www.irurueta.com)
 <!---
 albertoirurueta/albertoirurueta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
